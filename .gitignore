@@ -1,0 +1,24 @@
+/*
+/*/
+!/backups/
+
+/backups/period/*
+# !/backups/period/*.zip
+
+/backups/startup/*
+# !/backups/startup/*.zip
+
+!/Saves/
+/Saves/Apocalypse
+/Saves/Sandbox
+/Saves/You Have One Day
+
+/Saves/Multiplayer/*
+!/Saves/Multiplayer/aaaaaaa-Copy
+
+
+!/Saves/Multiplayer/aaaaaaa-Copy/*
+!workshop.rar
+
+!/Server/
+!.gitignore
