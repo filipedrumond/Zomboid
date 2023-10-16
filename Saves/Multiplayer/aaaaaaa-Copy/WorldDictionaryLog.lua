@@ -6683,3 +6683,150 @@ table.insert(log, {
 	{ type = "removed_item", scriptMissing = false, fulltype = "Base.762_54RBox", registeryID = 2924, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
 	{ type = "removed_item", scriptMissing = true, fulltype = "Base.762_54RBox", registeryID = 2924, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
 };
+log = log or {};
+table.insert(log, {
+	-- -------------------------------------------------------
+	-- Time: 2023/10/11 20:21:00
+	{
+		type = "info",
+		timeStamp = "2023/10/11 20:21:00",
+		saveWorld = "aaaaaaa-Copy",
+		worldVersion = 195,
+		hasErrored = false,
+		itemMods = {
+			"pz-vanilla",
+			"CWAX Bombs Stats",
+			"RepairAnyClothes",
+			"BB_CommonSense",
+			"SYMS",
+			"ReducedWoodWeight2x41",
+			"TSW_CLEANFREAK",
+			"manageContainers",
+			"CanSpear",
+			"Silencer",
+			"TowingCar",
+			"Cut Brake Lines",
+			"2507488373",
+			"improvedbuildmenu41-2",
+			"SkillRecoveryJournal",
+			"Eraser",
+			"Cosplaywa",
+			"92amgeneralM998",
+			"97bushmaster",
+			"waterPipes",
+			"DynamicTraits",
+			"CosplayShop",
+			"FireBook",
+			"BLTAnnotations",
+			"DRAW_ON_MAP",
+			"PUNCHSKILL",
+			"AdditionalBooks2",
+			"MCM",
+			"UniversalGunRepair",
+			"ThrowingHuntingKnife",
+			"CJOpenAmmoWalk",
+			"DougDimmadome",
+			"cheatmenu",
+		},
+	},
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagMP5SD2", registeryID = 2893, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagMP5SD2", registeryID = 2893, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagM60", registeryID = 2894, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagM60", registeryID = 2894, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagM1A", registeryID = 2895, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagM1A", registeryID = 2895, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.357Magnum", registeryID = 2896, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.357Magnum", registeryID = 2896, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.357MagnumBox", registeryID = 2897, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.357MagnumBox", registeryID = 2897, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagPK", registeryID = 2898, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagPK", registeryID = 2898, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagWA2000", registeryID = 2899, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagWA2000", registeryID = 2899, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ545", registeryID = 2900, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ545", registeryID = 2900, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagG3A3", registeryID = 2901, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagG3A3", registeryID = 2901, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.762_54R", registeryID = 2902, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.762_54R", registeryID = 2902, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagWalther_PP", registeryID = 2903, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagWalther_PP", registeryID = 2903, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagP226", registeryID = 2904, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagP226", registeryID = 2904, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTAngerBook2", registeryID = 2514, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTAngerBook2", registeryID = 2514, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTAngerBook3", registeryID = 2515, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTAngerBook3", registeryID = 2515, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTAngerBook4", registeryID = 2516, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTAngerBook4", registeryID = 2516, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTAngerBook5", registeryID = 2517, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTAngerBook5", registeryID = 2517, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTAngerBook1", registeryID = 2518, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTAngerBook1", registeryID = 2518, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagMini14", registeryID = 2905, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagMini14", registeryID = 2905, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ22LRBox", registeryID = 2906, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ22LRBox", registeryID = 2906, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ545Box", registeryID = 2907, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ545Box", registeryID = 2907, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTUnhappynessBook5", registeryID = 2536, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTUnhappynessBook5", registeryID = 2536, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTUnhappynessBook3", registeryID = 2537, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTUnhappynessBook3", registeryID = 2537, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTUnhappynessBook4", registeryID = 2538, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTUnhappynessBook4", registeryID = 2538, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTUnhappynessBook1", registeryID = 2539, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTUnhappynessBook1", registeryID = 2539, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTUnhappynessBook2", registeryID = 2540, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTUnhappynessBook2", registeryID = 2540, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ22LR", registeryID = 2909, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ22LR", registeryID = 2909, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTStressBook1", registeryID = 2548, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTStressBook1", registeryID = 2548, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTStressBook2", registeryID = 2549, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTStressBook2", registeryID = 2549, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTStressBook5", registeryID = 2550, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTStressBook5", registeryID = 2550, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTStressBook3", registeryID = 2551, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTStressBook3", registeryID = 2551, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTStressBook4", registeryID = 2552, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTStressBook4", registeryID = 2552, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagAK74M", registeryID = 2910, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagAK74M", registeryID = 2910, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.762NATO", registeryID = 2911, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.762NATO", registeryID = 2911, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTBoredomBook5", registeryID = 2564, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTBoredomBook5", registeryID = 2564, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTBoredomBook1", registeryID = 2565, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTBoredomBook1", registeryID = 2565, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTBoredomBook2", registeryID = 2566, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTBoredomBook2", registeryID = 2566, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTBoredomBook3", registeryID = 2567, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTBoredomBook3", registeryID = 2567, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "dtitems.DTBoredomBook4", registeryID = 2568, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "dtitems.DTBoredomBook4", registeryID = 2568, existsVanilla = false, isModded = true, modID = "DynamicTraits", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagAUG", registeryID = 2913, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagAUG", registeryID = 2913, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagM249", registeryID = 2914, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagM249", registeryID = 2914, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ762", registeryID = 2915, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ762", registeryID = 2915, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagAA12", registeryID = 2917, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagAA12", registeryID = 2917, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagSR25", registeryID = 2918, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagSR25", registeryID = 2918, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagTEC", registeryID = 2919, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagTEC", registeryID = 2919, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "cheatmenu.CMInfiniteCarryweight", registeryID = 2925, existsVanilla = false, isModded = true, modID = "cheatmenu", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "cheatmenu.CMInfiniteCarryweight", registeryID = 2925, existsVanilla = false, isModded = true, modID = "cheatmenu", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagSVD", registeryID = 2920, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagSVD", registeryID = 2920, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.MagGlock17", registeryID = 2921, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.MagGlock17", registeryID = 2921, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.CJ762Box", registeryID = 2922, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.CJ762Box", registeryID = 2922, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.762NATOBox", registeryID = 2923, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.762NATOBox", registeryID = 2923, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.762_54RBox", registeryID = 2924, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.762_54RBox", registeryID = 2924, existsVanilla = false, isModded = true, modID = "CJOpenAmmoWalk", obsolete = false, removed = true, isLoaded = false }
+};
